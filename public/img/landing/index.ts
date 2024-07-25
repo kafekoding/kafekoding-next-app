@@ -10,4 +10,8 @@ import PlatformGroup3 from './Group 184.png'
 import Rectangle5 from './Rectangle 52.png'
 import Rectangle6 from './Rectangle 53.png'
 import Rectangle7 from './Rectangle 54.png'
-export{LogoKK,LogoHero,Rectangle1,Rectangle2,Rectangle3,Rectangle4,PlatformGroup1,PlatformGroup2,PlatformGroup3,Rectangle5,Rectangle6,Rectangle7}
+import LogoHTML from './HTML 1.png'
+import LogoPHP from './PHP 1.png'
+import LogoLAravel from './Laravel 1.png'
+import LogoMsql from './kisspng-mysql-logo-database-join-portable-network-graphics-lee-qixian-about-me-5b632d94056496 1.png'
+export{LogoKK,LogoHero,Rectangle1,Rectangle2,Rectangle3,Rectangle4,PlatformGroup1,PlatformGroup2,PlatformGroup3,Rectangle5,Rectangle6,Rectangle7,LogoHTML,LogoLAravel,LogoMsql,LogoPHP}

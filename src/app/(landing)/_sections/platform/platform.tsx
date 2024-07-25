@@ -35,7 +35,7 @@ export default function Platform() {
                             <span className='font-bold'>{item.title}</span>
                             <p className='pt-5'>{item.paragraf}</p>
                             <Link href={''}>
-                            <button className='bg-blue-600 font-semibold p-3 mt-5 rounded-xl'>{item.Button}</button>
+                            <button className='bg-blue-600 font-semibold p-3 mt-5 rounded-xl text-white'>{item.Button}</button>
                             </Link>
 
                         </li>
