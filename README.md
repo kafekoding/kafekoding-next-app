@@ -1,9 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-
-First, run the development server:
-
+# before cloning  install terlebih dahhulu PNPM secara global
+# setelah clone di terminal tulislah pnpm install untuk menginstall node module
 ```bash
 npm run dev
 # or
